@@ -29,7 +29,7 @@ class BootScene extends PIXI.Container{
     pageImg = new PIXI.Sprite(PIXI.Texture.from('page_png'));
   //I changed somtyhing;...
 
-  
+  //wrttyyyyyy
     // //pageImg.height = 200;
     // pixiScroll = new PIXIScroll({
     //   width:400,
