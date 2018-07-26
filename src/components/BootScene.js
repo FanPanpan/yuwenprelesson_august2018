@@ -26,8 +26,8 @@ class BootScene extends PIXI.Container{
     this.startBtn.interactive = true;
     this.startBtn.once('pointertap',this.enterGame_handler,this);
 
-    pageImg = new PIXI.Sprite(PIXI.Texture.from('page_png'));
-  //I changed somtyhing;...
+    pageImg = new PIXI.Sprite(PIXI.Texture.from('mypage_png'));
+  //I changed somtyhing;...ZZZZZZZZZZZZ
 
   //wrttyyyyyy
     // //pageImg.height = 200;
